@@ -115,7 +115,7 @@ Cs-study
         - HTTP status code
         - HTTP method
         - HTTP 1.1, 2.0, 3.0
-    - HTTPS, SSL/TSL
+    - HTTPS, SSL/TLS
     - DNS
     - 기타 : socket, STOMP, SMTP (프로젝트에서 사용한 경우)
 - Web
