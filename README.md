@@ -104,6 +104,7 @@ Cs-study
     - TCP/IP 4계층
     - IP
         - IPv4 vs IPv6
+        - 유니, 애니, 멀티, 브로드 캐스트
         - subnet
         - CIDR
 - 통신
