@@ -8,7 +8,6 @@
 - 클래스, 생성자
   - inner class
   - java reflection
-  - collection framework
 - 객체지향
   - 추상화
   - 캡슐화
